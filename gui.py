@@ -91,7 +91,7 @@ class gui:
         self.rendertagsoptions()
         self.renderfilteroptions()
         self.rendersubmit()
-        self.renderloadlasttags()
+        # self.renderloadlasttags()
         self.pr.mainloop()
 
     def rendertags(self):
