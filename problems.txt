@@ -1,140 +1,537 @@
-Almost Acyclic Graph
-AND Graph
-Tree Requests
-CNF 2
-Dasha and Puzzle
-Caterpillar
-Fedor and Essay
-Ksenia and Pawns
-Desk Disorder
-Chessboard Billiard
-Interestring graph and Apples
-Chain Letter
-Kingdom and its Cities
-The Great Mixing
-Rumor
-Mike and Fish
-Block Tower
-Greedy Petya
-Cactus
-Eternal Victory
-Tree Destruction
-Bear and Chemistry
-T-decomposition
-New Reform
-Tree Queries
-Berland and the Shortest Paths
-Ilya And The Tree
-Variable, or There and Back Again
-Fake bullions
-Wilbur and Strings
-FreeDiv
-Alyona and the Tree
-Online Courses In BSU
-Leha and another game about graph
-Cut 'em all!
-Fools and Foolproof Roads
-Tourist Reform
-Polycarp and Hay
-Bipartite Segments
-Underground Lab
-Santa Clauses and a Soccer Championship
-Police Stations
-Cow Program
-Minimum spanning tree for each edge
-Data Center Drama
-Data Center Maintenance
-Preorder Test
-Simple Cycles Edges
-Socks
-Colorful Graph
-Work Group
-Wormhouse
-Ring Road 2
-Mahmoud and a Dictionary
-Coprocessor
-One-Way Reform
-New Year Permutation
-Students and Shoelaces
-Restore Graph
-Connected Components?
-Inna and Dima
-Road Repairs
-Best Edge Weight
-Minimal Labels
-Quantity of Strings
-Weighting a Tree
-Bear and Forgotten Tree 2
-Cycle in Graph
-Connecting Universities
-Two Paths
-Hongcow Builds A Nation
-Missile Silos
-Sleepy Game
-Table Compression
-Points, Lines and Ready-made Titles
-Case of Computer Network
-Protect Sheep
-New Year and Snowy Grid
-Mahmoud and Ehab and the bipartiteness
-Military Problem
-Breaking Good
-The Red Button
-Dominoes
-Love Triangles
-Leaders
-Unbearable Controversy of Being
-New Year Santa Network
-Bear and Friendship Condition
-The Road to Berland is Paved With Good Intentions
-Gargari and Permutations
-Nikita and game
+Binary Blocks
+Logical Expression
+Wavy numbers
+Field expansion
+Mother of Dragons
+String Set Queries
+Pythagorean Theorem II
+Two Seals
+Smallest number
+To Hack or not to Hack
+Almost Arithmetical Progression
+The Tournament
+Three Sons
+Interview
 Three-dimensional Turtle Super Computer 
-Lovely Matrix
-Cycle
-Alyona and a tree
-Igor and his way to work
-Island Puzzle
-Badge
-National Property
-Baldman and the military
-Pursuit For Artifacts
-Mobile Phone Network
-Chemical table
-Reachability from the Capital
-Bear and Chase
-PolandBall and Forest
-Scheme
-Roads in the Kingdom
-Wrong Floyd
-Fight Against Traffic
-Session in BSU
-Fox And Names
-Dating
-Bear and Three Musketeers
-Snake
-Directed Roads
-Edges in MST
-The Overdosing Ubiquity
-Pairs
-Shortest Path Problem?
-Subway
-The Door Problem
-Brain Network (medium)
-Square Root of Permutation
-Cycling City
-Vitaly and Cycle
-Weird journey
-Vladik and Favorite Game
-Three States
-Upgrading Tree
-Bertown roads
-Labelling Cities
-Timofey and a tree
-Sagheer and Kindergarten
+Choosing Laptop
+Dasha and Very Difficult Problem
+The Child and Set
+Nuclear Fusion
+Dasha and Photos
+Amr and Chemistry
+Vanya and Triangles
+Fight the Monster
+Sweets Game
+Vasya and Basketball
+Heads or Tails
+Hex Dyslexia
+Message
+Tic-tac-toe
+Bear and Up-Down
+Safe
+Continued Fractions
+Prime Segment
 Strongly Connected City
-We Need More Bosses
-Mouse Hunt
-President and Roads
-Information Graph
-Tanya and Password
+Design Tutorial: Increase the Constraints
+Fly, freebies, fly!
+Two Problems
+Little Xor
+Permutation Cycle
+The Text Splitting
+Arpa and a game with Mojtaba
+Fetch the Treasure
+Football Championship
+Ali goes shopping
+Treasure Island
+Too Much Money
+Sereja and Swaps
+Interactive Bulls and Cows (Hard)
+Time to Raid Cowavans
+Little Elephant and Elections
+Mr. Kitayuta's Gift
+Divisibility by 25
+Igor and Interesting Numbers
+Seating of Students
+Prince's Problem
+Petya and Spiders
+Gears
+Fuzzy Search
+New Year and Old Property
+Characteristics of Rectangles
+Rhombus
+Dividing Kingdom II
+Unsorting Array
+Sum the Fibonacci
+Magic Box
+Segment Occurrences
+Lizards and Basements 2
+Cutting Rectangle
+k-Interesting Pairs Of Integers
+Non-square Equation
+Number With The Given Amount Of Divisors
+Encrypting Messages
+Limak and Shooting Points
+Searching for Graph
+Platforms
+Magic Forest
+Divisor Tree
+Solitaire
+Little Elephant and Rozdil
+Bear and Prime Numbers
+Batch Sort
+Memory for Arrays
+Finding Team Member
+Okabe and Banana Trees
+Karen and Test
+Alyona and copybooks
+Rectangle and Square
+Vladik and chat
+Drazil and His Happy Friends
+Divisibility by Eight
+Help Victoria the Wise
+The Films
+Mushroom Strife
+Kamal-ol-molk's Painting
+Substrings in a String
+Candy Boxes
+Sereja and Sets
+Ice Sculptures
+Password
+Dima and Magic Guitar
+Shaass and Painter Robot
+Alice, Bob, Two Teams
+Devu and Partitioning of the Array
+Game on Paper
+Scissors
+Guess the Tree
+Oh Sweet Beaverette
+Points and Powers of Two
+Hongcow Buys a Deck of Cards
+Group Photo 2 (online mirror version)
+Point on Spiral
+Predict Outcome of the Game
+Ksusha the Squirrel
+Karen and Supermarket
+New Year and Entity Enumeration
+Kalevitch and Chess
+Dress'em in Vests!
+Shortest Path Queries
+Felicity's Big Secret Revealed
+EKG
+You're Given a String...
+Chord
+Jury Size
+Ever-Hungry Krakozyabra
+Transformation: from A to B
+Block Towers
+Parallelogram is Back
+Another Sith Tournament
+Xor
+Azembler
+Allowed Letters
+Expected diameter of a tree
+Ilya and tic-tac-toe game
+Mutation
+Savior
+The Minimum Number of Variables
+Geometrical Progression
+Jury Marks
+Coprime Subsequences
+Rectangles and Square
+Fibonacci Number
+Harry Potter and the History of Magic
+Divisors
+Maximal Area Quadrilateral
+Bacterial Melee
+Dark Assembly
+Perfect Pair
+Bear and Three Balls
+Writing a Song
+Valuable Resources
+Barrels and boxes
+Safe cracking
+Recovering BST
+Game Outcome
+Maxim and Calculator
+Banners
+Polycarpus is Looking for Good Substrings
+Subset Sums
+Second price auction
+Something with XOR Queries
+Coach
+Polo the Penguin and Matrix
+Varying Kibibits
+Hacking Cypher
+The Neutral Zone
+Mike and Cellphone
+Shower Line
+New Year Letter
+Fish
+Amity Assessment
+Beauty Pageant
+Roland and Rose
+Choosing The Commander
+Sum of Medians
+Little Artem and Dance
+Table with Letters - 2
+Mike and Frog
+Lala Land and Apple Trees
+Roman and Numbers
+Palindrome pairs
+Summer Earnings
+Full Binary Tree Queries
+Secret Combination
+New Problem
+Kolya and Tandem Repeat
+Hot Bath
+Mahmoud and Ehab and yet another xor task
+Ball Game
+Plane of Tanks
+Encryption (easy)
+Tournament
+Ghd
+Pave the Parallelepiped
+Jamie and Binary Sequence (changed after round)
+Number of Triplets
+Travelling Through the Snow Queen's Kingdom
+Summer Homework
+MUH and House of Cards
+Programming Language
+A + B Strikes Back
+Inna and Binary Logic
+Shifts
+Distinct Paths
+Diverse Team
+XOR on Segment
+Shopping
+Clear The Matrix
+Dima and Text Messages
+Paths in a Complete Binary Tree
+Blackboard Fibonacci
+Egg Roulette
+Guards In The Storehouse
+Sonya and Matrix
+Random Task
+Anton and Permutation
+Beautiful Set
+Phone Code
+Long sequence
+Sign Posts
+Triangular numbers
+Yash And Trees
+Second Order Statistics
+Biathlon Track
+Broken Monitor
+Broken checker
+A Map of the Cat
+Nearest Fraction
+Bitwise Formula
+Pasha and Pipe
+Vladik and fractions
+Xor-MST
+Cunning Gena
+Bash Plays with Functions
+Kay and Eternity
+Bargaining Table
+Machine Learning
+Palindromes in a Tree
+Magic Matrix
+Lucky Substring
+Running Student
+Sofa Thief
+PolandBall and Gifts
+Vasya and Beautiful Arrays
+Random Elections
+Robbers' watch
+Arthur and Table
+Minimum Modular
+Hellish Constraints
+Harry Potter and the Sorting Hat
+Restoring Map
+Log Stream Analysis
+Display Size
+Wrong Floyd
+Zoo
+Trees in a Row
+Captains Mode
+Polycarpus the Safecracker
+Jerry's Protest
+Vladik and cards
+Giga Tower
+Two Circles
+Another Problem on Strings
+Synchrophasotron
+Bitonix' Patrol
+Generate Login
+Crosses
+Vanya and Brackets
+The Golden Age
+Bear and Chase
+Guard Duty (easy)
+CGCDSSQ
+Inversions problem
+Lift and Throw
+Inversion Counting
+Easy Tape Programming
+Curfew
+Toys
+Robot Sequence
+4-point polyline
+Help Farmer
+Funky Numbers
+Supercollider
+Binary Cards
+Unbearable Controversy of Being
+Cube Problem
+Perun, Ult!
+Tree Requests
+Set Theory
+Race
+Art Union
+Lucky Mask
+Help Caretaker
+Travelling Salesman and Special Numbers
+Physical Education and Buns
+Array Queries
+Vanya and Scales
+Lucky Interval
+Prefix Sums
+High Cry
+Weird Chess
+Fox and Minimal path
+Pumping Stations
+Flag of Berland
+Nastya and a Game
+Two Tables
+Interactive LowerBound
+Hanoi Factory
+Anton and School
+Really Big Numbers
+The Overdosing Ubiquity
+Little Elephant and Chess
+Twisted Circuit
+Word Folding
+2Char
+Very Interesting Game
+Sonya and Bitwise OR
+Fibonacci-ish
+Jzzhu and Numbers
+Brand New Easy Problem
+Mahmoud and a Message
+Eevee
+Little Dima and Equation
+Robot in Basement
+PFAST Inc.
+Reconnaissance
+Bear and Strings
+Axel and Marston in Bitland
+Sereja and Table 
+Roman Digits
+Valera and Number
+Kuro and GCD and XOR and SUM
+Vasily the Bear and Painting Square
+Seller Bob
+Hidden Word
+Sausage Maximization
+Accounting
+A Simple Task
+Pills
+String Manipulation 1.0
+Gosha is hunting
+Addition on Segments
+New Year and Binary Tree Paths
+Collisions
+Ohana Cleans Up
+Suggested Friends
+Kyoya and Photobooks
+AND Graph
+Curious Array
+Link/Cut Tree
+Large Refrigerator
+Captain Marmot
+Sherlock and the Encrypted Data
+Chess
+Two Cakes
+Lucky Sum of Digits
+Mike and Fun
+Sandy and Nuts
+Cows and Poker Game
+2048
+ucyhf
+Circling Round Treasures
+Spit Problem
+Looking for Order
+ZgukistringZ
+Chip Play
+Chocolate Bar
+Promocodes with Mistakes
+Awards For Contestants
+DZY Loves Modification
+Unusual Sequences
+Pairs of Numbers
+Digits
+Cave Painting
+Mahmoud and Ehab and the xor-MST
+Hongcow's Game
+Binary Table
+Pair of Numbers
+Sequence Recovery
+Mad Joe
+Group of Students
+Compatible Numbers
+Item World
+Quick Tortoise
+Fox And Jumping
+Dasha and cyclic table
+LRU
+Network Mask
+Undoubtedly Lucky Numbers
+Lucky Permutation
+Simple Molecules
+Appropriate Team
+Tennis Rackets
+Garden
+Hexadecimal's theorem
+Gennady the Dentist
+New Year and Fireworks
+Fancy Number
+Task processing
+Hexadecimal's Numbers
+Cutting Banner
+Math, math everywhere
+Mrs. Hudson's Pancakes
+Vanya and Balloons
+Edo and Magnets
+Remembering Strings
+Qualification Rounds
+Double Happiness
+Bamboo Partition
+Interactive Bulls and Cows (Easy)
+Common Divisors
+Brand New Problem
+Primes or Palindromes?
+Rats
+New Year Cards
+Restoring the Expression
+Counting Rectangles is Fun
+Bags and Coins
+PE Lesson
+QAQ
+Dima and Continuous Line
+Robot Bicorn Attack
+Xor-matic Number of the Graph
+Dima and To-do List
+Restoring Increasing Sequence
+Dasha and Password
+Polo the Penguin and Segments 
+Little Pony and Harmony Chest
+Dead Ends
+Boolean Function
+Caisa and Tree
+Rat Kwesh and Cheese
+Ice Skating
+PolandBall and Hypothesis
+A Heap of Heaps
+Removing Columns
+Weird Rounding
+Sereja and Prefixes
+Special Grid
+Restore Cube 
+Jon Snow and his Favourite Number
+Video Cards
+Arrangement
+Ancient Prophesy
+Simplified Nonogram
+A Trivial Problem
+Snake
+Bear and Floodlight
+A Creative Cutout
+Peterson Polyglot
+Mahmoud and a xor trip
+Balls Game
+Bear and Three Musketeers
+Two Sets
+Remove Extra One
+Three Logos
+Traveling Graph
+Series of Crimes
+Devu and Flowers
+Vasily the Bear and Sequence
+Panoramix's Prediction
+Gambling Nim
+Strange Addition
+Xenia and Dominoes
+X-mouse in the Campus
+System of Equations
+Little Victor and Set
+Mountain Scenery
+Om Nom and Candies
+Plane of Tanks: Duel
+Beautiful Numbers
+Palindromic characteristics
+The Brand New Function
+Blinds
+Permutation Sum
+Lucky Probability
+Anya and Cubes
+Xenia and Spies
+Ksusha and Array
+"Or" Game
+Five Dimensional Points
+Students and Shoelaces
+Dating
+Office Keys
+Little Elephant and Sorting
+List Of Integers
+Axis Walking
+Trees
+Sereja and Bottles
+Timofey and remoduling
+Dividing Kingdom
+Bear and Compressing
+Land Lot
+King of Thieves
+Two Subsequences
+Danil and a Part-time Job
+Counting Rhombi
+Spiral Maximum
+Shark
+Square Subsets
+Boulevard
+Pizza Separation
+Beautiful IP Addresses
+Help Vasilisa the Wise 2
+Heroes
+Three Garlands
+Martian Dollar
+Stars Drawing (Easy Edition)
+Couple Cover
+Dima and Kicks
+Borya and Hanabi
+Spongebob and Squares
+Minimum Diameter
+Game with Strings
+Skills
+Petr#
+Longest Subsequence
+Salazar Slytherin's Locket
+Post Lamps
+Economy Game
+Huge Strings
+Wonder Room
+TL
+Power Defence
+Mike and Foam
+View Angle
+80-th Level Archeology
+Ants
+Palindromic Cut
+Misha and XOR
+Erasing Substrings
+Pasha and Pixels
+Walking in the Rain
+Broken Clock
+Average Numbers
+The Last Hole!
+Colorful Graph
+Entertaining Geodetics
