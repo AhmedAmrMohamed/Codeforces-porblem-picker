@@ -2,13 +2,19 @@ import threading
 import pickle
 from time import sleep
 class connection:
+    '''this is the calss responsible for threading the http requests.'''
     def __init__(self,classref,members):
-        self.members = set(members)
-        self.donemembers = set()
-        self.__doneHandles = set()
+        '''
+        classref :: a refrence to the contestant class
+        members  :: a list of the members handles
+        '''
+        self.members = set(members)    #handles of the members
+        self.donemembers = set()       #contestant objects of the members that have already been processed
+        self.__doneHandles = set()     #a temp set to hold the members handles that have been processed so they
+                                       #can be seafely removed from self.donemembers.
         self.classref = classref
-        self.failed   = set()
-        self.li=[]
+        self.failed   = set()          #handles that haven't been processed correctly
+        self.li=[]                     #A list of all the active threads.
 
         while(self.filter()):
             print(self.members)
@@ -16,25 +22,38 @@ class connection:
             self.buffer()
 
     def filter(self):
+        """
+        remove the handles in self.__doneHandles from self.donemembers
+        return True if there still members to be processed; False otherwise.
+        """
         for key in self.__doneHandles:
             self.members.discard(key)
         return len(self.members)
+
     def threads(self):
         for num,me in enumerate(self.members):
+            #the three lines below intialize a thread with the right info and add it to self.li
             x=threading.Thread(target=lambda me=me:self.connect(me))
             x.start()
             self.li.append(x)
-
+            #if there are 5 active threads hold on till all is finished
             if (1+num)%5==0:
                 self.buffer()
                 self.li=[]
 
     def buffer(self):
+        """
+        Keep this thread paused till all the other threads are done.
+        """
         for i in self.li:
             while(i.isAlive()):
                 pass
 
     def connect(self,name):
+        """
+        intialize the contestant object -the one handling the http requests
+        and add the preocessed handles to both self.donemembers and self.__doneHandles
+        """
         print('thread ',name)
         try:
             x=self.classref(name)
@@ -45,68 +64,4 @@ class connection:
             self.__doneHandles.add(name)
             # self.members.discard(name)
 
-# import time
-# def count():
-#     for i in range(10):
-#         time.sleep(1)
-# li=[threading.Thread(target=count),threading.Thread(target=count)]
-# for i in li:
-#     i.start()
-# def buffer():
-#     for i in li:
-#         while(i.isAlive()):
-#             pass
-#     print('done')
-# buffer()
 
-
-
-
-
-
-
-
-
-    # def __init__(self,classref,members):
-    #     self.members = set(members)
-    #     self.donemembers = set()
-    #     self.classref = classref
-    #     self.contestants = set()
-    #     self.done = False
-    #     self.checkpast()
-    #     self.process()
-    #
-    # def checkpast(self):
-    #     f=open('connection','rb')
-    #     x=pickle.load(f)
-    #     f.close()
-    #     if not x.done:
-    #         if self.allert():
-    #             self = x
-    #             print('reloaded',self.donemembers)
-    # def allert(self):
-    #     print('reloode last unfinished connection')
-    #     if input().lower()[0] == 'y':
-    #
-    #         return True
-    #     return False
-    #
-    # def process(self):
-    #     print('a')
-    #     for handle in self.members:
-    #         print(handle,self.donemembers,handle in self.donemembers)
-    #         if handle in self.donemembers:
-    #             continue
-    #         try:
-    #             self.contestants.add(self.classref(handle))
-    #             self.donemembers.add(handle)
-    #             print(handle,"OK",self.done)
-    #             self.save()
-    #         except Exception as exc:
-    #             print('connection lost for : ',exc)
-    #     self.done = True
-    #     self.save()
-    # def save(self):
-    #     f=open('connection','wb')
-    #     pickle.dump(self,f)
-    #     f.close()
