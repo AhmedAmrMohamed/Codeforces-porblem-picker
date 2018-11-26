@@ -19,3 +19,13 @@
   <li>problems gets saved to 'problems.txt'</li>
   <li>Also the ability to launch the last used handles and /or tags</li>
   </ul>
+<h2>Atonmy</h2>
+<ul>
+  <li><code>connection.py</code> : responisble for threading the http requests to the codeforces api</li>
+  <li><code>contestant.py</code> : represetnt each contestant once intialized make an http request to get the wanted info of the given handle
+      </li>
+  <li><code>gui.py</code>        : guess what! responsible for the gui in the program.</li>
+  <li><code>inter.py</code>      : I tried my best to make this classs responisble for all communication between classes and that is the case for
+    the most part.</li>
+  </ul>
+  
